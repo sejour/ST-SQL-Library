@@ -1,4 +1,3 @@
-## ST-SQL-Library beta
+## ST-SQL-Library
 
-試作品。
-java.sqlを使いやすくするためのラッパー。
+動的クエリの生成とORM機能を備えたJavaライブラリ
